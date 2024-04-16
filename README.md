@@ -42,7 +42,7 @@ npm start
 Open a new terminal window/tab, navigate to the `server` folder:
 
 ```bash
-cd ../server
+cd /server
 ```
 
 Then, start the server using nodemon:
