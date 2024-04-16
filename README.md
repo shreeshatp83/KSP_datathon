@@ -55,9 +55,7 @@ nodemon app.js
 
 Once both the frontend and server are running, you can view the web application by navigating to `http://localhost:your-port-number` in your web browser.
 
-## Contributing
 
-Thank you for considering contributing to this project! If you find any issues or have suggestions for improvement, please feel free to open an issue or create a pull request.
 
 ## License
 
