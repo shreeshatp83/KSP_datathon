@@ -12,7 +12,7 @@ To get started with the development environment, follow these steps:
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone [https://github.com/your-username/your-repo.git](https://github.com/shreeshatp83/KSP_datathon.git)
+git clone https://github.com/your-username/your-repo.git
 ```
 
 ### 2. Install Required Packages
